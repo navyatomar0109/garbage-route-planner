@@ -27,9 +27,9 @@ A full-stack command center for tracking garbage collection across Delhi's colon
 ## Project Structure
 
 ```
+garbage-route-planner
 .
 ├── artifacts/
-│   ├── api-server/          # Express 5 backend (port 8080)
 │   │   └── src/
 │   │       ├── routes/      # trucks, areas, routes, alerts, fuel, ai, dashboard
 │   │       ├── lib/         # logger
